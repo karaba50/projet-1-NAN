@@ -1,0 +1,57 @@
+@media screen and (max-width: 650px) {
+  .titre {
+    width: 70%;
+	top:300px;
+	color: black;
+	position: relative;
+	font-size: 1em;
+	height: 50px;
+}
+}
+
+@media screen and (max-width: 850px){
+  .titre {
+    width: 80%;
+	top:300px;
+	color: black;
+	position: relative;
+	font-size: 1,2em;
+	height: 100px;
+	
+}
+}
+
+@media screen and (max-width: 650px){
+  .guinee {
+   
+	font-size: 14px;	
+}
+}
+
+@media screen and (max-width: 770px){
+  .icon-bar-horizontal {
+   
+	margin-left: 0px;
+	
+}
+}
+
+@media screen and (max-width: 850px){
+  .guinee {
+   
+	font-size: 16px;	
+}
+}
+
+@media (max-width: 767px){
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: black;
+}
+}
+
+
+@media (min-width: 768px){
+.navbar-nav>li {
+	font-size: 1em;
+    float: left;
+}
